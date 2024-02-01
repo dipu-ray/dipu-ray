@@ -4,7 +4,7 @@
 
 Hello everyone! I'm currently studies diploma in computer engineering and I'm also learning full stack development. My hobbies are music, gym, bike trip and travelling. Thank you!
 
-Skills: HTML, CSS, Git and GitHub, Bootstrap, Responsive Web Design and JavaScript
+Skills: HTML, CSS, Git and GitHub, Bootstrap, Tailwind, Responsive Web Design and JavaScript
 
 - 🔭 I’m currently working on Front End Development 
 - 🌱 I’m currently learning Full Stack Development 
