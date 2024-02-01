@@ -1,6 +1,7 @@
+![Front End Developer](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/420635677_1759772434497822_4624095065095506614_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeF8rW8lp1S1R6USrTlnXY25LxZUY5wVn4AvFlRjnBWfgLh9HHGnSvq5NKBAlq0UmjxU0tke1cAK9Te4TaZ_7gKm&_nc_ohc=L1EYBAgIWKkAX_KUCTR&_nc_ht=scontent.fdac155-1.fna&oh=00_AfDOWk0mUGdqqeO2S1Y07cFz6oADk9W66bV9i-eJ9JgVPA&oe=65C0C5F4)
+
 ## Hi there 👋, I'm Dipu Ray
 ### Front End Developer
-![Front End Developer](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/420635677_1759772434497822_4624095065095506614_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeF8rW8lp1S1R6USrTlnXY25LxZUY5wVn4AvFlRjnBWfgLh9HHGnSvq5NKBAlq0UmjxU0tke1cAK9Te4TaZ_7gKm&_nc_ohc=L1EYBAgIWKkAX_KUCTR&_nc_ht=scontent.fdac155-1.fna&oh=00_AfDOWk0mUGdqqeO2S1Y07cFz6oADk9W66bV9i-eJ9JgVPA&oe=65C0C5F4)
 
 Hello everyone! I'm currently studies diploma in computer engineering and I'm also learning full stack development. My hobbies are music, gym, bike trip and travelling. Thank you!
 
