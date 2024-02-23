@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/421018533_1759768234498242_8075696872564429109_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFmQ-eK9LLw1iveRPZSOgqYGyC2zEkjn2sbILbMSSOfa6uGoDSjd7raifLVMubvTV8PkFWbx8ApQkAJw1MBXK79&_nc_ohc=nCltuWT71XwAX8O5apo&_nc_ht=scontent.fdac155-1.fna&oh=00_AfA4L1UexeW7HOaa3hqy3NgSB8GHVwLdrcgaNQOOoGpOpw&oe=65DCE0B1)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQE4ZPDCx-IYBA/profile-displaybackgroundimage-shrink_350_1400/0/1684926473847?e=1714003200&v=beta&t=4iMdI4IRAfopV5rIZ3AChP9GbGGCK6Y-gLBoMQ1ss90)
 
 ## Hi there 👋, I'm Dipu Ray
 ### Front End Developer
