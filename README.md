@@ -6,11 +6,11 @@ I'm Dipu, A Front Web Web Developer. I'm currently studies Diploma in Computer E
 
 Skills: HTML, CSS, Git & GitHub, Bootstrap, JavaScript and React.
 
-💻  I’m currently learning Web Application Development with Python.
-👯  I’m looking to collaborate on Facebook and other social media.
-🤔  I’m looking for people who can help me with Coding.
-💬  Ask me about everything without personal things.
-📫  How to reach me: Follow me on Facebook.
+💻  I’m currently learning Web Application Development with Python. <br>
+👯  I’m looking to collaborate on Facebook and other social media. <br>
+🤔  I’m looking for people who can help me with Coding. <br>
+💬  Ask me about everything without personal things. <br>
+📫  How to reach me: Follow me on Facebook. <br>
 ⚡  Fun fact: Practice practice and more than practice.
 
 Connect with me! <br><br>
