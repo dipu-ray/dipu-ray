@@ -2,7 +2,7 @@
 
 ## Hi there my gorgeous friend 👋
 
-I'm Dipu, A Front Web Web Developer. I'm currently studies diploma in computer engineering and I'm also learning web development. I really enjoying web development and like this role. My hobbies are music, gym, bike trip and travelling. Thank you!
+I'm Dipu, A Front Web Web Developer. I'm currently studies Diploma in Computer Engineering and I'm also learning Web Development. I really enjoying and like this role. My hobbies are Music, Gym, Bike trip and Travelling. Thank you!
 
 Skills: HTML, CSS, Git & GitHub, Bootstrap, JavaScript and React.
 
