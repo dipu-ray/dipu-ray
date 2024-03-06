@@ -3,7 +3,7 @@
 ## Hi there, I'm Dipu Ray.
 ### Front-End Web Developer
 
-Hello everyone! I'm currently studies diploma in computer engineering and I'm also learning web development. My hobbies are music, gym, bike trip and travelling. Thank you!
+I'm currently studies diploma in computer engineering and I'm also learning web development. I really enjoying web development and like this role. My hobbies are music, gym, bike trip and travelling. Thank you!
 
 Skills: HTML, CSS, Git & GitHub, Bootstrap and JavaScript.
 
