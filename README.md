@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQE4ZPDCx-IYBA/profile-displaybackgroundimage-shrink_350_1400/0/1684926473847?e=1714003200&v=beta&t=4iMdI4IRAfopV5rIZ3AChP9GbGGCK6Y-gLBoMQ1ss90)
 
-## Hi there 👋, I'm Dipu Ray
-### Front End Developer
+## Hi there, I'm Dipu Ray.
+### Front-End Web Developer
 
 Hello everyone! I'm currently studies diploma in computer engineering and I'm also learning full stack development. My hobbies are music, gym, bike trip and travelling. Thank you!
 
