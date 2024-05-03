@@ -1,17 +1,22 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQE4ZPDCx-IYBA/profile-displaybackgroundimage-shrink_350_1400/0/1684926473847?e=1714003200&v=beta&t=4iMdI4IRAfopV5rIZ3AChP9GbGGCK6Y-gLBoMQ1ss90)
+<h1 align="center">Hi 👋, I'm Dipu Ray</h1>
+<h3 align="center">Learner's</h3>
 
-## Hi there my gorgeous friend 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipu-ray&label=Profile%20views&color=0e75b6&style=flat" alt="dipu-ray" /> </p>
 
-I'm Dipu, A Front Web Web Developer. I'm currently studies Diploma in Computer Engineering and I'm also learning Web Development. I really enjoying and like this role. My hobbies are Music, Gym, Bike trip and Travelling. Thank you!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipu-ray" alt="dipu-ray" /></a> </p>
 
-Skills: HTML, CSS, Git & GitHub, Bootstrap, JavaScript and React.
+- 🌱 I’m currently learning **Python and Django Framework**
 
-💻    I’m currently learning Web Application Development with Python. <br>
-👯    I’m looking to collaborate on Facebook and other social media. <br>
-🤔    I’m looking for people who can help me with Coding. <br>
-💬    Ask me about everything without personal things. <br>
-📫    How to reach me: Follow me on Facebook. <br>
-⚡    Fun fact: Practice practice and more than practice.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/@dipu-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dipu-ray" height="30" width="40" /></a>
+</p>
 
-Connect with me! <br><br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/dipu-ray)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dipu-ray//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/dipu.591)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/dipu_ray.16//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/dipu_ray23) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipu-ray&show_icons=true&locale=en&layout=compact" alt="dipu-ray" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&locale=en" alt="dipu-ray" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipu-ray&" alt="dipu-ray" /></p>
