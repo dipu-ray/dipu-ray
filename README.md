@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dipu Ray!
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer exploring the world of code, technology, and creativity. Here's a glimpse into my journey:
+Welcome to my GitHub profile! I'm a dedicated and enthusiastic Full-Stack Developer with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far.
 
 ---
 
