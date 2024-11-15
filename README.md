@@ -1,22 +1,80 @@
-<h1 align="center">Hi 👋, I'm Dipu Ray</h1>
-<h3 align="center">Learner's</h3>
+# 👋 Hello, I'm Dipu Ray!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipu-ray&label=Profile%20views&color=0e75b6&style=flat" alt="dipu-ray" /> </p>
+Welcome to my GitHub profile! I'm a passionate Full-Stack Developer exploring the world of code, technology, and creativity. Here's a glimpse into my journey:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipu-ray" alt="dipu-ray" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Python and Django Framework**
+## 📝 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning and exploring new technologies.
+- 🎓 Pursuing a degree in **Computer Engineering**.
+- 💻 I love building software, designing websites, and solving problems.
+- 🎶 In my free time, I enjoy listening to music, singing, and traveling with bike.
+- 📫 How to reach me: [dipu34786@gmail.com](mailto:your.email@example.com)
+
+---
+
+## 🔧 Skills & Tools
+
+### **Programming Languages**
 <p align="left">
-<a href="https://www.youtube.com/@dipu-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dipu-ray" height="30" width="40" /></a> 
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### **Web Technologies**
+<p align="left">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipu-ray&show_icons=true&locale=en&layout=compact" alt="dipu-ray" /></p>
+### **Tools & Frameworks**
+<p align="left">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&locale=en" alt="dipu-ray" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipu-ray&" alt="dipu-ray" /></p>
+## 📬 Let's Connect!
+
+Feel free to connect with me on social media platforms:
+
+<p align="center">
+    <a href="https://www.facebook.com/dipu.591" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://www.instagram.com/dipu_ray.16/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/dipu-ray/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://x.com/dipu_ray23" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+## 🎨 Hobbies & Interests
+
+- 🎵 **Music Enthusiast**: I love exploring different music genres and creating playlists for every mood.
+- 🏍️ **Bike Riding**: Passionate about hitting the open road and enjoying scenic bike rides.
+- 🌍 **Traveling**: Exploring new places, cultures, and cuisines whenever I get the chance.
+- 🏋️ **Gym & Fitness**: Committed to a healthy lifestyle, focusing on strength training and staying fit.
+
+
+---
+
+🌟 Thanks for visiting my profile! Looking forward to collaborating with you! 🌟
