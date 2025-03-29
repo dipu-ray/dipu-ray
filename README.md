@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a dedicated and enthusiastic Full-Stack Develo
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    
+    <img src="https://img.shields.io/badge/-RESTAPI-3776AB?style=for-the-badge&logo=restapi&logoColor=white"/>
 </p>
 
 ### **Tools & Frameworks**
@@ -38,6 +38,11 @@ Welcome to my GitHub profile! I'm a dedicated and enthusiastic Full-Stack Develo
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### **Databases**
+<p align="left">
+    <img src="https://img.shields.io/badge/-SQLite-3776AB?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
