@@ -78,4 +78,4 @@ Feel free to connect with me on social media platforms:
 
 ---
 
-🌟 Thanks for visiting my profile! Looking forward to collaborating with you! 🌟
+<p align="center">🌟 Thanks for visiting my profile! Looking forward to collaborating with you! 🌟</p>
