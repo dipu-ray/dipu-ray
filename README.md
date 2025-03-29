@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a dedicated and enthusiastic Full-Stack Develo
 
 ## 📝 About Me
 
-- 🌱 I’m currently learning and exploring new technologies.
-- 🎓 Pursuing a degree in **Computer Engineering**.
-- 💻 I love building software, designing websites, and solving problems.
-- 🎶 In my free time, I enjoy listening to music, singing, and traveling with bike.
+- 🌱 I’m currently learning and exploring **C Programming Language**.
+- 🎓 Pursuing a degree (Bsc) in **Computer Science and Engineering**.
+- 💻 I love building software, designing and try to problem solving.
+- 🎶 In my free time, I enjoy listening to music and traveling with bike.
 - 📫 How to reach me: [dipu34786@gmail.com](mailto:your.email@example.com)
 
 ---
