@@ -68,7 +68,7 @@ Feel free to connect with me on social media platforms:
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&theme=radical" alt="Top Languages" width="60%"/>
 </p>
 
 ---
