@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 📝 About Me
-
 - 🌱 I’m currently learning and exploring **C Programming Language**.
 - 🎓 Pursuing a degree (Bsc) in **Computer Science and Engineering**.
 - 💻 I love building software, designing and try to problem solving.
@@ -19,7 +18,6 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 🔧 Skills & Tools
-
 ### **Programming Languages**
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -52,9 +50,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 📬 Let's Connect!
-
 Feel free to connect with me on social media platforms:
-
 <p align="center">
     <a href="https://www.facebook.com/dipu.591" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://www.instagram.com/dipu_ray.16/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -65,15 +61,12 @@ Feel free to connect with me on social media platforms:
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
 </p>
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipu-ray&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical" alt="Top Languages" width="48%"/>
 </p>
@@ -81,12 +74,10 @@ Feel free to connect with me on social media platforms:
 ---
 
 ## 🎨 Hobbies & Interests
-
 - 🎵 **Music Enthusiast**: I love exploring different music genres and creating playlists for every mood.
 - 🏍️ **Bike Riding**: Passionate about hitting the open road and enjoying scenic bike rides.
 - 🌍 **Traveling**: Exploring new places, cultures, and cuisines whenever I get the chance.
 - 🏋️ **Gym & Fitness**: Committed to a healthy lifestyle, focusing on strength training and staying fit.
-
 
 ---
 
