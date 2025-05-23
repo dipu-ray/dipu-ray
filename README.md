@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=dipu-ray&label=Profile%20views&color=0e75b6&style=flat" alt="dipu-ray"/>
 </p>
 
-# 👋 Hello, I'm Dipu Ray!
+<h1 align="center">👋 Hello, I'm Dipu Ray!</h1>
 
 Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and Engineering (CSE)</b> with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far.
 
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 
 ## 📬 Let's Connect!
 Feel free to connect with me on social media platforms:
-<p align="center">
+<p align="left">
     <a href="https://www.facebook.com/dipu.591" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://www.instagram.com/dipu_ray.16/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://www.linkedin.com/in/dipu-ray/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
