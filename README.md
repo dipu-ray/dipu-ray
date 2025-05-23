@@ -74,12 +74,12 @@ Feel free to connect with me on social media platforms:
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&theme=radical" alt="GitHub Stats" width="90%"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipu-ray&theme=radical" alt="GitHub Streak" width="90%"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical" alt="Top Languages" width="79%"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical" alt="Top Languages" width="80%"/>
     </td>
   </tr>
 </table>
