@@ -45,6 +45,8 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Vercel -000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Netlify -00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HackerRank -2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codeforces -1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
 ---
