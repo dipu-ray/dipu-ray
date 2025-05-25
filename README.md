@@ -63,7 +63,7 @@ Feel free to connect with me on social media platforms:
 ---
 
 ## 📊 GitHub Stats
-<!-- <p align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
 </p>
 <p align="center">
@@ -71,10 +71,9 @@ Feel free to connect with me on social media platforms:
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical" alt="Top Languages" width="48%"/>
-</p> -->
+</p>
 
-
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&theme=radical" alt="GitHub Stats" width="90%"/>
@@ -84,8 +83,7 @@ Feel free to connect with me on social media platforms:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical" alt="Top Languages" width="80%"/>
     </td>
   </tr>
-</table>
-
+</table> -->
 
 ---
 
