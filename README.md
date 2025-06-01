@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 🔧 Skills & Tools
-### **Programming Languages**
+### **Programming Languages:**
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### **Web Technologies**
+### **Web Technologies:**
 <p align="left">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     <img src="https://img.shields.io/badge/-RESTAPI-007ACC?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### **Tools**
+### **Tools:**
 <p align="left">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 
 ---
 
-## 📬 Let's Connect!
+## 🌐 Let's Connect
 Feel free to connect with me on social media platforms:
 <p align="left">
     <a href="https://www.facebook.com/dipu.591" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
