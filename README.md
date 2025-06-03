@@ -69,8 +69,8 @@ Feel free to connect with me on social media platforms:
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=dipu-ray&theme=radical" alt="GitHub Streak" width="50%"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=dipu-ray&theme=radical" alt="GitHub Streak" width="50%"/>
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=dipu-ray&theme=radical)
+  <img src="https://streak-stats.demolab.com/?user=dipu-ray&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats" alt="GitHub Streak" width="50%"/>
+  [![GitHub Streak]()
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical&layout=compact" alt="Top Languages" width="50%"/>
