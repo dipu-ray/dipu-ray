@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 
 ## 📝 About Me
 - 🌱 I’m currently learning and exploring **C++ Programming Language**.
-- 🎓 Pursuing a degree (Bsc) in **Computer Science and Engineering**.
+- 🎓 Pursuing a degree (BSc) in **Computer Science and Engineering**.
 - 💻 I love building software, designing and try to problem solving.
 - 🎶 In my free time, I enjoy listening to music and traveling with bike.
 - 📫 How to reach me: [dipu34786@gmail.com](mailto:your.email@example.com)
