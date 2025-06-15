@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Data%20Structure%20And%20Algorithms-3F51B5?style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-3F51B5?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ### **Web Technologies:**
