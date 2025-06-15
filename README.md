@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 📝 About Me
-- 🎯 I’m currently learning and exploring **C++ Programming Language**.
+- 🎯 I’m currently learning and exploring **Data Structures and Algorithms (DSA)**.
 - 🎓 Pursuing a degree (BSc) in **Computer Science and Engineering (CSE)**.
 - 💻 I love building software, designing and try to problem solving.
 - 🎶 In my free time, I enjoy listening to music and traveling with bike.
@@ -18,12 +18,13 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 🔧 Skills & Tools
-### **Programming Languages:**
+### **Programming Languages / Skills:**
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Data%20Structure%20And%20Algorithms-3F51B5?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ### **Web Technologies:**
