@@ -69,7 +69,6 @@ Feel free to connect with me on social media platforms:
   <img src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="50%"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dipu-ray&theme=radical" alt="GitHub Streak" width="50%"/>
   <img src="https://streak-stats.demolab.com?user=dipu-ray&theme=dark" alt="GitHub Streak" width="50%"/>
 </p>
 <p align="center">
