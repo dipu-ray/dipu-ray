@@ -72,10 +72,7 @@ Feel free to connect with me on social media platforms:
   <img src="https://streak-stats.demolab.com?user=dipu-ray&theme=radical" alt="GitHub Streak" width="50%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical&layout=compact" alt="Top Languages" width="50%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&show_icons=true&theme=radical&rank_icon=github&border_radius=10&layout=compact&padding=100" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical&border_radius=10&layout=compact" alt="Top Languages" width="50%"/>
 </p>
 
 ---
