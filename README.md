@@ -75,7 +75,7 @@ Feel free to connect with me on social media platforms:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="50%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&langs_count=8&theme=gradient" alt="Top Languages" width="50%"/>
+  <img src="https://your-custom-api.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&langs_count=8&theme=customtheme" alt="Top Languages" width="50%"/>
 </p>
 
 ---
