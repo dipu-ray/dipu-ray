@@ -75,6 +75,14 @@ Feel free to connect with me on social media platforms:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical&layout=compact" alt="Top Languages" width="50%"/>
 </p>
 
+
+
+## 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
