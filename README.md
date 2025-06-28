@@ -75,20 +75,6 @@ Feel free to connect with me on social media platforms:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&theme=radical&layout=compact" alt="Top Languages" width="50%"/>
 </p>
 
-
-
-
-
-## 📊 Most Used Languages:
-
-| Language          | Percentage | Language     | Percentage |
-|-------------------|------------|--------------|------------|
-| 🟠 Jupyter Notebook | 72.85%    | 🟧 HTML       | 25.24%    |
-| 🔵 Python          | 0.99%     | 🟣 CSS        | 0.49%     |
-| 🟡 JavaScript      | 0.38%     | 🔴 C++        | 0.04%     |
-| 🟪 PHP             | 0.01%     | ⚫ Hack       | 0.00%     |
-
-
 ---
 
 ## 🏆 GitHub Trophies
