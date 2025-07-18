@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Dipu Ray!</h1>
 
-Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and Engineering (CSE)</b> with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far.
+Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and Engineering (CSE)</b> with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far. us.
 
 ---
 
