@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 📝 About Me
-- 🎯 I’m currently learning and exploring **Data Structures and Algorithms (DSA)**.
+- 🎯 I’m currently learning and exploring **Front-End Development**.
 - 🎓 Pursuing **Bachelor of Science (BSc)** in **Computer Science and Engineering (CSE)**.
 - 💻 I love building software, designing and try to problem solving.
 - 🎶 In my free time, I enjoy listening to music and traveling with bike.
@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-RESTAPI-007ACC?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-REST API-007ACC?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### **Tools:**
@@ -47,6 +47,8 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     <img src="https://img.shields.io/badge/-Netlify -00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HackerRank -2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codeforces -1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ChatGPT -1F8ACB?style=for-the-badge&logo=chatgpt&logoColor=white"/>
+    
 </p>
 
 ---
@@ -80,12 +82,31 @@ Feel free to connect with me on social media platforms:
   <img src="https://github-profile-trophy.vercel.app/?username=dipu-ray&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
---- -->
+---
 
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ray&theme=github-dark" alt="Dipu Ray's Contribution Graph"/>
 </p>
+
+--- -->
+
+## 📊 GitHub Stats
+<p align="center"><img alt="Dipu's streak" src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=dipu-ray&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"></p>
+<table>
+  <tr>
+    <td style="padding: 5px;"><a href="https://github.com/dipu-ray?tab=repositories"><img alt="Tansen's Github Stats" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=dipu-ray&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
+    <td style="padding: 10px;"><a href="https://github.com/dipu-ray?tab=repositories"><img alt="Tansen's Top Languages" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs/?username=dipu-ray&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 5px;"><a href="https://github.com/dipu-ray?tab=repositories"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ray&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievement
+<p align="center"><img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=dipu-ray&theme=radical" alt="Dipu's Trophy"></p>
 
 ---
 
