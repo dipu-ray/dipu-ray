@@ -87,17 +87,6 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
   </tr>
 </table>
 
----
-
-## 🌐 Let's Connect
-Feel free to connect with me on social media platforms:
-<p align="left">
-    <a href="https://www.facebook.com/dipu.591" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://www.instagram.com/dipu_ray.16/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://www.linkedin.com/in/dipu-ray/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://x.com/dipu_ray23" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
-
 <!-- <table>
   <tr>
     <td colspan="2">
@@ -129,6 +118,17 @@ Feel free to connect with me on social media platforms:
 
 ## 🏆 Achievement
 <p align="center"><img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=dipu-ray&theme=radical" alt="Dipu's Trophy"></p>
+
+---
+
+## 🌐 Let's Connect
+Feel free to connect with me on social media platforms:
+<p align="left">
+    <a href="https://www.facebook.com/dipu.591" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://www.instagram.com/dipu_ray.16/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/dipu-ray/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://x.com/dipu_ray23" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
 
 ---
 
