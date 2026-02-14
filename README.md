@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dipu-ray&label=Profile%20views&color=0e75b6&style=flat" alt="dipu-ray"/>
 </p>
-
 <h1 align="center">👋 Hello, I'm Dipu Ray!</h1>
-
 Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and Engineering (CSE)</b> with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far.
 
 ---
@@ -65,24 +63,24 @@ Feel free to connect with me on social media platforms:
 ---
 
 ## 📊 GitHub Stats
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="70%"/>
 </p> -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=dipu-ray&theme=radical" alt="GitHub Streak" width="70%"/>
 </p> -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="70%"/> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="70%"/>
 </p>
 
 ---
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dipu-ray&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
---- -->
+---
 
 ## 📈 Contribution Graph
 <p align="center">
