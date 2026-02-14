@@ -62,13 +62,13 @@ Feel free to connect with me on social media platforms:
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="70%"/>
-</p> -->
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dipu-ray&theme=radical" alt="GitHub Streak" width="70%"/>
-</p> -->
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="70%"/>
 </p>
@@ -77,10 +77,10 @@ Feel free to connect with me on social media platforms:
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipu-ray&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dipu-ray&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
----
+--- -->
 
 ## 📈 Contribution Graph
 <p align="center">
