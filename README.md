@@ -58,8 +58,6 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
         <img src="https://skills.syvixor.com/api/icons?i=gemini" alt="Google Gemini">
         <img src="https://skills.syvixor.com/api/icons?i=claudeai" alt="Claude AI">
         <img src="https://skills.syvixor.com/api/icons?i=copilot" alt="Microsoft Copilot">
-        <img src="https://skills.syvixor.com/api/icons?i=deepseek" alt="DeepSeek AI">
-        <img src="https://skills.syvixor.com/api/icons?i=perplexity" alt="Perplexity AI">
       </div>
     </td>
   </tr>
@@ -86,19 +84,6 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     </td>
   </tr>
 </table>
-
-<!-- <table>
-  <tr>
-    <td colspan="2">
-      <div align="center">
-        <a href="https://www.facebook.com/dipu.591" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=facebook" alt="Facebook"></a>
-        <a href="https://www.instagram.com/dipu_ray.16/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram" alt="Instagram"></a>
-        <a href="https://www.linkedin.com/in/dipu-ray/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn"></a>
-        <a href="https://x.com/dipu_ray23" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=x" alt="Twitter or X"></a>
-      </div>
-    </td>
-  </tr>
-</table> -->
 
 ---
 
