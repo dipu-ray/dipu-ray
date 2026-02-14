@@ -64,42 +64,15 @@ Feel free to connect with me on social media platforms:
 
 ---
 
-<!-- ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipu-ray&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="70%"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dipu-ray&theme=radical" alt="GitHub Streak" width="70%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipu-ray&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="70%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipu-ray&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ray&theme=github-dark" alt="Dipu Ray's Contribution Graph"/>
-</p>
-
---- -->
-
 ## 📊 GitHub Stats
 <p align="center"><img alt="Dipu's streak" src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=dipu-ray&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"></p>
 <table>
   <tr>
-    <td style="padding: 5px;"><a href="https://github.com/dipu-ray?tab=repositories"><img alt="Tansen's Github Stats" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=dipu-ray&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
-    <td style="padding: 10px;"><a href="https://github.com/dipu-ray?tab=repositories"><img alt="Tansen's Top Languages" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs/?username=dipu-ray&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
+    <td style="padding: 5px;"><img alt="Dipu's Github Stats" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=dipu-ray&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></td>
+    <td style="padding: 10px;"><img alt="Dipu's Top Languages" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs/?username=dipu-ray&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></td>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 5px;"><a href="https://github.com/dipu-ray?tab=repositories"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ray&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></td>
+    <td colspan="2" style="padding: 5px;"><img alt="Dipu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ray&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></td>
   </tr>
 </table>
 
