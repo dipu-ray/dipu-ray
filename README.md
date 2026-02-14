@@ -16,40 +16,76 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 🔧 Skills & Tools
-### **Programming Languages / Skills:**
-<p align="left">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-3F51B5?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
-
-### **Web Technologies:**
-<p align="left">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-REST API-007ACC?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### **Tools:**
-<p align="left">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Vercel -000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Netlify -00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HackerRank -2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codeforces -1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ChatGPT -1F8ACB?style=for-the-badge&logo=chatgpt&logoColor=white"/>
-    
-</p>
+<table align="center">
+  <tr>
+    <th><div align="center">Front-End Development</div></th>
+    <th><div align="center">Back-End Development</div></th>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://skills.syvixor.com/api/icons?i=html" alt="HTML">
+        <img src="https://skills.syvixor.com/api/icons?i=css3" alt="CSS3">
+        <img src="https://skills.syvixor.com/api/icons?i=bootstrap" alt="Bootstrap">
+        <img src="https://skills.syvixor.com/api/icons?i=tailwind" alt="Tailwind CSS">
+        <img src="https://skills.syvixor.com/api/icons?i=react" alt="React JS">
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://skills.syvixor.com/api/icons?i=django" alt="Django Framework">
+        <img src="https://skills.syvixor.com/api/icons?i=sqlite" alt="SQLite 3">
+        <img src="https://skills.syvixor.com/api/icons?i=rest" alt="REST API">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th><div align="center">Programming Languages</div></th>
+    <th><div align="center">AI Tools</div></th>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://skills.syvixor.com/api/icons?i=javascript" alt="JavaScript">
+        <img src="https://skills.syvixor.com/api/icons?i=python" alt="Python">
+        <img src="https://skills.syvixor.com/api/icons?i=c" alt="C">
+        <img src="https://skills.syvixor.com/api/icons?i=cpp" alt="C++">
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://skills.syvixor.com/api/icons?i=chatgpt" alt="ChatGPT">
+        <img src="https://skills.syvixor.com/api/icons?i=gemini" alt="Google Gemini">
+        <img src="https://skills.syvixor.com/api/icons?i=claudeai" alt="Claude AI">
+        <img src="https://skills.syvixor.com/api/icons?i=copilot" alt="Microsoft Copilot">
+        <img src="https://skills.syvixor.com/api/icons?i=deepseek" alt="DeepSeek AI">
+        <img src="https://skills.syvixor.com/api/icons?i=perplexity" alt="Perplexity AI">
+      </div>
+    </td>
+  </tr>
+  <tr>
+  <th colspan="2"><div align="center">Development Tools</div></th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+        <img src="https://skills.syvixor.com/api/icons?i=vscode" alt="VSCode">
+        <img src="https://skills.syvixor.com/api/icons?i=git" alt="Git">
+        <img src="https://skills.syvixor.com/api/icons?i=github" alt="GitHub">
+        <img src="https://skills.syvixor.com/api/icons?i=npm" alt="NPM">
+        <img src="https://skills.syvixor.com/api/icons?i=figma" alt="Figma">
+        <img src="https://skills.syvixor.com/api/icons?i=adobexd" alt="Adobe XD">
+        <img src="https://skills.syvixor.com/api/icons?i=canva" alt="Canva">
+        <img src="https://skills.syvixor.com/api/icons?i=vercel" alt="Vercel">
+        <img src="https://skills.syvixor.com/api/icons?i=netlify" alt="Netlify">
+        <img src="https://skills.syvixor.com/api/icons?i=githubpages" alt="Github pages">
+        <img src="https://skills.syvixor.com/api/icons?i=firebase" alt="Firebase Hosting">
+        <img src="https://skills.syvixor.com/api/icons?i=postman" alt="Postman">
+        <img src="https://skills.syvixor.com/api/icons?i=stackoverflow" alt="Stack Overflow">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
