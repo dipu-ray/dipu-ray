@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 📝 About Me
-- 🎯 I’m currently recap and learning **Front-End Development**.
+- 🎯 I’m currently revising and enhancing my skills in **Software Development (Web)**.
 - 🎓 Pursuing **Bachelor of Science (BSc)** in **Computer Science and Engineering (CSE)**.
 - 💻 I love building software, designing and try to problem solving.
 - 🎶 In my free time, I enjoy listening to music and traveling with bike.
