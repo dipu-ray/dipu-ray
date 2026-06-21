@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 📝 About Me
+
 - 🎯 I’m currently revising and enhancing my skills in **Software Development (Web)**.
 - 🎓 Pursuing **Bachelor of Science (BSc)** in **Computer Science and Engineering (CSE)**.
 - 💻 I love building software, designing and try to problem solving.
@@ -16,6 +17,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 🔧 Skills & Tools
+
 <table align="center">
   <tr>
     <th><div align="center">Front-End Development</div></th>
@@ -88,6 +90,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center"><img alt="Dipu's streak" src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=dipu-ray&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"></p>
 <table>
   <tr>
@@ -102,12 +105,15 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 ---
 
 ## 🏆 Achievement
+
 <p align="center"><img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=dipu-ray&theme=radical" alt="Dipu's Trophy"></p>
 
 ---
 
 ## 🌐 Let's Connect
+
 Feel free to connect with me on social media platforms:
+
 <p align="left">
     <a href="https://www.facebook.com/dipu.591" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://www.instagram.com/dipu_ray.16/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -118,6 +124,7 @@ Feel free to connect with me on social media platforms:
 ---
 
 ## 🎨 Hobbies & Interests
+
 - 🎵 **Music Enthusiast**: I love exploring different music genres and creating playlists for every mood.
 - 🏍️ **Bike Riding**: Passionate about hitting the open road and enjoying scenic bike rides.
 - 🌍 **Traveling**: Exploring new places, cultures, and cuisines whenever I get the chance.
