@@ -79,8 +79,6 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
         <img src="https://skills.syvixor.com/api/icons?i=vercel" alt="Vercel">
         <img src="https://skills.syvixor.com/api/icons?i=netlify" alt="Netlify">
         <img src="https://skills.syvixor.com/api/icons?i=githubpages" alt="Github pages">
-        <img src="https://skills.syvixor.com/api/icons?i=firebase" alt="Firebase Hosting">
-        <img src="https://skills.syvixor.com/api/icons?i=postman" alt="Postman">
         <img src="https://skills.syvixor.com/api/icons?i=stackoverflow" alt="Stack Overflow">
       </div>
     </td>
