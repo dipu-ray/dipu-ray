@@ -72,7 +72,6 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
         <img src="https://skills.syvixor.com/api/icons?i=vscode" alt="VSCode">
         <img src="https://skills.syvixor.com/api/icons?i=git" alt="Git">
         <img src="https://skills.syvixor.com/api/icons?i=github" alt="GitHub">
-        <img src="https://skills.syvixor.com/api/icons?i=npm" alt="NPM">
         <img src="https://skills.syvixor.com/api/icons?i=figma" alt="Figma">
         <img src="https://skills.syvixor.com/api/icons?i=adobexd" alt="Adobe XD">
         <img src="https://skills.syvixor.com/api/icons?i=canva" alt="Canva">
