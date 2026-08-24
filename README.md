@@ -60,6 +60,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
         <img src="https://skills.syvixor.com/api/icons?i=gemini" alt="Google Gemini">
         <img src="https://skills.syvixor.com/api/icons?i=claudeai" alt="Claude AI">
         <img src="https://skills.syvixor.com/api/icons?i=copilot" alt="Microsoft Copilot">
+        <img src="https://skills.syvixor.com/api/icons?i=perplexity" alt="Microsoft Perplexity">
       </div>
     </td>
   </tr>
