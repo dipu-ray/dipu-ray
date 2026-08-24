@@ -56,11 +56,11 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     </td>
     <td>
       <div align="center">
+        <img src="https://skills.syvixor.com/api/icons?i=claudeai" alt="Claude AI">
+        <img src="https://skills.syvixor.com/api/icons?i=perplexity" alt="Microsoft Perplexity">
         <img src="https://skills.syvixor.com/api/icons?i=chatgpt" alt="ChatGPT">
         <img src="https://skills.syvixor.com/api/icons?i=gemini" alt="Google Gemini">
-        <img src="https://skills.syvixor.com/api/icons?i=claudeai" alt="Claude AI">
         <img src="https://skills.syvixor.com/api/icons?i=copilot" alt="Microsoft Copilot">
-        <img src="https://skills.syvixor.com/api/icons?i=perplexity" alt="Microsoft Perplexity">
       </div>
     </td>
   </tr>
