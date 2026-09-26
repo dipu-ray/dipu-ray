@@ -89,15 +89,15 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 
 ## 📊 GitHub Stats
 
-<p align="center"><img alt="Dipu's streak" src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=dipu-ray&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"></p>
+<!-- <p align="center"><img alt="Dipu's streak" src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=dipu-ray&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"></p> -->
 <table>
   <tr>
     <td style="padding: 5px;"><img alt="Dipu's Github Stats" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=dipu-ray&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></td>
     <td style="padding: 10px;"><img alt="Dipu's Top Languages" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs/?username=dipu-ray&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2" style="padding: 5px;"><img alt="Dipu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ray&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
