@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 
 ## 📝 About Me
 
-- 🎯 I’m currently revising and enhancing my skills in **Software Development (Web)**.
+- 🎯 I’m currently working as a **.NET Developer Intern**.
 - 🎓 Pursuing **Bachelor of Science (BSc)** in **Computer Science and Engineering (CSE)**.
 - 💻 I love building software, designing and try to problem solving.
 - 🎶 In my free time, I enjoy listening to music and traveling with bike.
@@ -38,6 +38,9 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
         <img src="https://skills.syvixor.com/api/icons?i=django" alt="Django Framework">
         <img src="https://skills.syvixor.com/api/icons?i=sqlite" alt="SQLite 3">
         <img src="https://skills.syvixor.com/api/icons?i=rest" alt="REST API">
+        <img src="https://skills.syvixor.com/api/icons?i=dotnetcore" alt="ASP.NET Core">
+        <img src="https://skills.syvixor.com/api/icons?i=microsoftsqlserver" alt="Microsoft SQL Server">
+        <img src="https://skills.syvixor.com/api/icons?i=dotnet" alt="ASP.NET Core Web API">
       </div>
     </td>
   </tr>
@@ -52,6 +55,7 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
         <img src="https://skills.syvixor.com/api/icons?i=python" alt="Python">
         <img src="https://skills.syvixor.com/api/icons?i=c" alt="C">
         <img src="https://skills.syvixor.com/api/icons?i=cpp" alt="C++">
+        <img src="https://skills.syvixor.com/api/icons?i=csharp" alt="C#">
       </div>
     </td>
     <td>
