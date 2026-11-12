@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
         <img src="https://skills.syvixor.com/api/icons?i=django" alt="Django Framework">
         <img src="https://skills.syvixor.com/api/icons?i=sqlite" alt="SQLite 3">
         <img src="https://skills.syvixor.com/api/icons?i=rest" alt="REST API">
-        <img src="https://skills.syvixor.com/api/icons?i=dotnetcore" alt="ASP.NET Core">
-        <img src="https://skills.syvixor.com/api/icons?i=microsoftsqlserver" alt="Microsoft SQL Server">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="50" height="50">
+        <img src="https://skills.syvixor.com/api/icons?i=sqlserver" alt="Microsoft SQL Server">
         <img src="https://skills.syvixor.com/api/icons?i=dotnet" alt="ASP.NET Core Web API">
       </div>
     </td>
@@ -93,15 +93,15 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center"><img alt="Dipu's streak" src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=dipu-ray&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"></p> -->
+<p align="center"><img alt="Dipu's streak" src="https://streak-stats.demolab.com/?user=dipu-ray&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"></p>
 <table>
   <tr>
     <td style="padding: 5px;"><img alt="Dipu's Github Stats" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=dipu-ray&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></td>
     <td style="padding: 10px;"><img alt="Dipu's Top Languages" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs/?username=dipu-ray&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></td>
   </tr>
-  <!-- <tr>
-    <td colspan="2" style="padding: 5px;"><img alt="Dipu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dipu-ray&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></td>
-  </tr> -->
+  <tr>
+    <td colspan="2" style="padding: 5px;"><img alt="Dipu's Activity Graph" src="https://fabianocouto-activity-graph.vercel.app/graph?username=dipu-ray&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></td>
+  </tr>
 </table>
 
 ---
