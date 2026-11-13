@@ -75,15 +75,18 @@ Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and
     <td colspan="2">
       <div align="center">
         <img src="https://skills.syvixor.com/api/icons?i=vscode" alt="VSCode">
+        <img src="https://skills.syvixor.com/api/icons?i=visualstudio" alt="Visual Studio">
+        <img src="https://skills.syvixor.com/api/icons?i=antigravity" alt="Antigravity">
+        <img src="https://skills.syvixor.com/api/icons?i=cursor" alt="Cursor AI">
         <img src="https://skills.syvixor.com/api/icons?i=git" alt="Git">
         <img src="https://skills.syvixor.com/api/icons?i=github" alt="GitHub">
-        <img src="https://skills.syvixor.com/api/icons?i=figma" alt="Figma">
-        <img src="https://skills.syvixor.com/api/icons?i=adobexd" alt="Adobe XD">
-        <img src="https://skills.syvixor.com/api/icons?i=canva" alt="Canva">
         <img src="https://skills.syvixor.com/api/icons?i=vercel" alt="Vercel">
         <img src="https://skills.syvixor.com/api/icons?i=netlify" alt="Netlify">
         <img src="https://skills.syvixor.com/api/icons?i=githubpages" alt="Github pages">
         <img src="https://skills.syvixor.com/api/icons?i=stackoverflow" alt="Stack Overflow">
+        <img src="https://skills.syvixor.com/api/icons?i=figma" alt="Figma">
+        <img src="https://skills.syvixor.com/api/icons?i=adobexd" alt="Adobe XD">
+        <img src="https://skills.syvixor.com/api/icons?i=canva" alt="Canva">
       </div>
     </td>
   </tr>
