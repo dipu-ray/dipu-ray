@@ -19,41 +19,21 @@
 
 </div>
 
-<br>
+---
 
-Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and Engineering (CSE)</b> with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far.
-
-
-
-
+## 📝 About Me
 
 <img align="right" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### 👨‍💻 Hello, I'm Dipu Ray!
 
 I'm a Computer Science & Engineering student and a passionate software developer currently working as a **.NET Developer Intern**.
 
 I enjoy transforming creative ideas into practical software solutions and exploring modern technologies.
 
-- 🎓 Pursuing B.Sc. in Computer Science & Engineering.
-- 💼 Working as a .NET Developer Intern.
-- 🌐 Interested in Frontend & Backend Development.
-- ⚡ Exploring modern web technologies.
-- 🧠 Passionate about problem-solving and clean code.
-- 🚀 Always learning, building and improving.
-
-<br clear="right"/>
-
-
-
-
----
-
-## 📝 About Me
-
 - 🎯 I’m currently working as a **.NET Developer Intern**.
 - 🎓 Pursuing **Bachelor of Science (BSc)** in **Computer Science and Engineering (CSE)**.
-- 💻 I love building software, designing and try to problem solving.
+- ⚡ Exploring modern technologies.
+- 🧠 Passionate about problem-solving and clean code.
+- 🚀 Always learning, building and improving.
 - 🎶 In my free time, I enjoy listening to music and traveling with bike.
 - 🔗 How to reach me: [dipu34786@gmail.com](mailto:your.email@example.com)
 
