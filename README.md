@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B46,100:00D4FF&height=230&section=header&text=DIPU%20RAY&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20INTERN&descSize=16&descAlignY=60&descColor=00D4FF" />
 
 <a href="https://git.io/typing-svg">
@@ -22,8 +24,6 @@
 ---
 
 ## 📝 About Me
-
-<img align="right" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I'm a Computer Science & Engineering student and a passionate software developer currently working as a **.NET Developer Intern**.
 
