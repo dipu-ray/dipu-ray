@@ -19,13 +19,15 @@
 
 </div>
 
+<br>
+
 Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and Engineering (CSE)</b> with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far.
 
 
 
 
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 Hello, I'm Dipu Ray!
 
