@@ -1,8 +1,49 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipu-ray&label=Profile%20views&color=0e75b6&style=flat" alt="dipu-ray"/>
-</p>
-<h1 align="center">👋 Hello, I'm Dipu Ray!</h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B46,100:00D4FF&height=230&section=header&text=DIPU%20RAY&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20INTERN&descSize=16&descAlignY=60&descColor=00D4FF" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Dipu+Ray+%F0%9F%91%8B;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+</a>
+
+<br/>
+
+<a href="https://github.com/dipu-ray">
+<img src="https://img.shields.io/badge/GitHub-dipu--ray-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF"/>
+</a>
+<a href="https://dipu-ray.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=dipu-ray&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+</div>
+
 Welcome to my GitHub profile! I'm a dedicated student of <b>Computer Science and Engineering (CSE)</b> with a passion for diving into the realms of code, technology, and creativity. I love turning ideas into reality, solving complex problems, and building robust applications. Here’s a snapshot of my journey so far.
+
+
+
+
+
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 👨‍💻 Hello, I'm Dipu Ray!
+
+I'm a Computer Science & Engineering student and a passionate software developer currently working as a **.NET Developer Intern**.
+
+I enjoy transforming creative ideas into practical software solutions and exploring modern technologies.
+
+- 🎓 Pursuing B.Sc. in Computer Science & Engineering.
+- 💼 Working as a .NET Developer Intern.
+- 🌐 Interested in Frontend & Backend Development.
+- ⚡ Exploring modern web technologies.
+- 🧠 Passionate about problem-solving and clean code.
+- 🚀 Always learning, building and improving.
+
+<br clear="right"/>
+
+
+
 
 ---
 
