@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4FF"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=dipu-ray&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=dipu-ray&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## 📝 About Me
 
-<img align="right" width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I'm a Computer Science & Engineering student and a passionate software developer currently working as a **.NET Developer Intern**.
 
